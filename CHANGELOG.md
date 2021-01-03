@@ -5,7 +5,9 @@ Creación del proyecto
 Implementación de modelos Producto y Marca
 
 Personalización del panel de administración
+
 Creación de las rutas home, contacto y galería
+
 Avance de la función listar productos
 
 
