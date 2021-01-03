@@ -1,10 +1,11 @@
-21-12-2020
-
+21-12-2020:
 Creación del proyecto
 Implementación de modelos Producto y Marca
+
 Personalización del panel de administración
 Creación de las rutas home, contacto y galería
 Avance de la función listar productos
+
 
 24-12-2020
 
