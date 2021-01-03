@@ -36,3 +36,5 @@ Implementación framework messages para mensajes temporales (EJ: modificado corr
 02-01-2021
 
 Implementación paquete Sweet Alert 2 para mensajes temporales con mejor diseño
+
+Implementación del paginador de django en la vista listar productos
